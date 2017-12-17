@@ -11,7 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Docker World! Testing for Jenkin Integration for docker";
+        return "Hello Docker World! Testing for Jenkin Integratio";
     }
 
     public static void main(String[] args) {
